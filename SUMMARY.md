@@ -16,3 +16,4 @@
 * [常见问题](chang-jian-wen-ti/README.md)
   * [profile、bashrc、bash\_profile区别](chang-jian-wen-ti/profilebashrcbashprofile-qu-bie.md)
   * [Page 1](chang-jian-wen-ti/page-1.md)
+* [README](readme.md)
