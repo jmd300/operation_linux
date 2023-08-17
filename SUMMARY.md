@@ -1,6 +1,7 @@
 # Table of contents
 
-* [根目录](README.md)
+* [README](README.md)
+* [根目录](<README (1).md>)
 * [环境变量](huan-jing-bian-liang.md)
 * [权限](quan-xian.md)
 * [查找文件](cha-zhao-wen-jian/README.md)
@@ -16,4 +17,3 @@
 * [常见问题](chang-jian-wen-ti/README.md)
   * [profile、bashrc、bash\_profile区别](chang-jian-wen-ti/profilebashrcbashprofile-qu-bie.md)
   * [Page 1](chang-jian-wen-ti/page-1.md)
-* [README](readme.md)
