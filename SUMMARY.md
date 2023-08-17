@@ -1,0 +1,18 @@
+# Table of contents
+
+* [根目录](README.md)
+* [环境变量](huan-jing-bian-liang.md)
+* [权限](quan-xian.md)
+* [查找文件](cha-zhao-wen-jian/README.md)
+  * [whereis](cha-zhao-wen-jian/whereis.md)
+  * [find](cha-zhao-wen-jian/find.md)
+  * [locate](cha-zhao-wen-jian/locate.md)
+* [shell编程](shell-bian-cheng/README.md)
+  * [执行脚本](shell-bian-cheng/zhi-hang-jiao-ben.md)
+  * [shell中函数和符号](shell-bian-cheng/shell-zhong-han-shu-he-fu-hao.md)
+* [配置应用开机自启动](pei-zhi-ying-yong-kai-ji-zi-qi-dong/README.md)
+  * [systemctl](pei-zhi-ying-yong-kai-ji-zi-qi-dong/systemctl.md)
+  * [service](pei-zhi-ying-yong-kai-ji-zi-qi-dong/service.md)
+* [常见问题](chang-jian-wen-ti/README.md)
+  * [profile、bashrc、bash\_profile区别](chang-jian-wen-ti/profilebashrcbashprofile-qu-bie.md)
+  * [Page 1](chang-jian-wen-ti/page-1.md)
